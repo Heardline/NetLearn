@@ -1,0 +1,12 @@
+venv/
+authentication/tokens/__pycache__/
+authentication/authentication/__pycache__/
+authentication/tokens/migrations/__pycache__/
+user_managment/user_managment/__pycache__/
+
+.DS_Store
+.mypy_cache
+
+media/images
+media/i
+authentication/authentication/settings.py
