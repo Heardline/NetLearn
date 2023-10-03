@@ -23,7 +23,7 @@ LMS платформа для онлайн-школы/университета.
 - Фронтдент: Vue.JS
 - Redux для управления состоянием. Axios для выполнения HTTP. Rayna UI - готовая дизайн-система
 - Docker + GitHub Actions. Деплой на Ubuntu
-![Тест](https://github.com/Heardline/NetLearn/blob/main/docs/arch_netlearn_v0.1.png)
+![Тест](https://github.com/Heardline/NetLearn/blob/main/docs/arch_netlearn.png)
 ## Компоненты
 Используется микросервисная архитектура, что обеспечивает модульность и независимость компонентов.
 ### Auth - Сервис авторизации и управления правами
